@@ -1,4 +1,4 @@
-// File: PenilaianMahasiswa.java
+
 import java.util.Scanner;
 
 public class PenilaianMahasiswa {
@@ -46,7 +46,7 @@ public class PenilaianMahasiswa {
         // 4. PERULANGAN (FOR)
 
         System.out.println("\nDaftar percobaan pengambilan mata kuliah:");
-        for (int i = 1; i <= 3; i++) {
+        for (int i = 1; i <= 7; i++) {
             System.out.println("Percobaan ke-" + i);
         }
 
